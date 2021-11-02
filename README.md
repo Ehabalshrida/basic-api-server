@@ -2,9 +2,9 @@
 
 # basic-express-server
 
-## heruku link [herokulink](https://ehabalshri-basic-express-serve.herokuapp.com/)
+## heruku link [herokulink](https://ehabexpressrestapi.herokuapp.com/)
 
-## test on github [test](https://github.com/Ehabalshrida/basic-express-server/actions)
+## test on github [test](https://github.com/Ehabalshrida/basic-api-server/actions)
 
 ## setup 
 
